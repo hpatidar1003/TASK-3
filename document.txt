@@ -1,0 +1,14 @@
+Critical Vulnerabilities Documentation (Scan Summary)
+
+
+Scan Context
+- Scanner: OpenVAS Default
+- Scan Config: Full and fast
+- Port List: All IANA assigned TCP
+- Target: 3 hosts
+
+
+
+
+Observed Vulnerability Classes
+- No severity levels (e.g., Log, Low, Medium, High, Critical) are listed
